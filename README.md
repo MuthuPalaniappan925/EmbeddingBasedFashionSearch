@@ -63,3 +63,7 @@ The `credit_page.py` module contains information about the project overview and 
 - **NumPy:** Numerical operations.
 - **Faiss:** Similarity search and efficient vector indexing.
 - **SentenceTransformer:** Generating embeddings from product descriptions.
+
+## Demo
+
+Will update soon...
