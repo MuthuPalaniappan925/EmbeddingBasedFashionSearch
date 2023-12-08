@@ -1,5 +1,5 @@
-streamlit==1.14.0
-pandas==1.3.3
-numpy==1.21.2
-faiss-cpu==1.7.1
-sentence-transformers==2.1.0
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
