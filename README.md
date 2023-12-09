@@ -67,3 +67,8 @@ The `credit_page.py` module contains information about the project overview and 
 ## Demo
 
 https://embeddingbasedfashionsearch-muthu-palaniappan.streamlit.app
+
+## Output
+![UI](https://github.com/MuthuPalaniappan925/EmbeddingBasedFashionSearch/blob/master/Output/Output-1.png)
+![Product](https://github.com/MuthuPalaniappan925/EmbeddingBasedFashionSearch/blob/master/Output/Output-2.png)
+
